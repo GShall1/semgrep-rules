@@ -1,4 +1,4 @@
-<!-- cf. https://github.com/JoyChou93/webshell/blob/4a2f049afe009f9cc061357b002cff78c06d6c43/jsp/cmd.jsp -->
+
 <!-- ok: no-scriptlets -->
 <%@ page import="java.util.*,java.io.*"%>
 <!-- ruleid: no-scriptlets -->

@@ -1,4 +1,3 @@
-
 <!-- ok: no-scriptlets -->
 <%@ page import="java.util.*,java.io.*"%>
 <!-- ruleid: no-scriptlets -->
